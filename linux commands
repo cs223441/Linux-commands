@@ -14,6 +14,8 @@
         file and directory management :-
         ______________________________
 
+        nano - creates the blank text file 
+        vi  - allows us to move through a file, and delete, copy, or paste a piece of text
         pwd – Print working directory (shows current directory).
         ls – List files in the current directory.
         cd – Change directory.
